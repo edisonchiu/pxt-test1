@@ -1,5 +1,5 @@
 {
-    "name": "tools",
+    "name": "test1",
     "version": "0.0.1",
     "description": "這是專為測試用的micro:bit積木",
     "license": "MIT",
@@ -9,7 +9,7 @@
     "files": [
         "README.md",
         "main.ts",
-        "_locales/zh/tools-strings.json"
+        "_locales/zh/test1-strings.json"
     ],
     "public": true
 }

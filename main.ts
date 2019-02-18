@@ -1,5 +1,5 @@
 //% weight=0 color=#3CB371 icon="\uf0ad" block="Tools"
-namespace tools {
+namespace test1 {
     /**
     * 計算長方形面積，並回傳
     */
@@ -16,4 +16,7 @@ namespace tools {
     export function ledOfRectangle(length: number, width:number): void {
         basic.showNumber(length*width)
     }
+    export function say_123(): number {
+    }
+	
 }
