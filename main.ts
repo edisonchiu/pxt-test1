@@ -26,9 +26,10 @@ namespace test1 {
 	//% block
     export function bar(): number {
 		//test1.bar()
-		basic.showNumber(test1.say_123())
+		//basic.showNumber(test1.say_123())
 		//basic.showNumber(2)
-		return 0
+		//return 0
+		return test1.say_3()
     }
 	
 }

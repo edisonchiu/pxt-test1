@@ -2,7 +2,7 @@
 
 namespace test1 {
 	
-    int say_123() {
+    int say_3() {
         return(3)
     }
 	
