@@ -7,9 +7,9 @@
         "core": "*"
     },
     "files": [
+		"test1.cpp",
         "README.md",
         "main.ts",
-		"test1.cpp",
         "_locales/zh/test1-strings.json"
     ],
     "public": true,
