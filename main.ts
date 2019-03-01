@@ -19,7 +19,7 @@ namespace test1 {
     export function say_123(): number {
     }
 	
-    export function say_123(): number {
+    export function bar(): number {
 		test1.bar()
     }
 	
