@@ -17,10 +17,12 @@ namespace test1 {
         basic.showNumber(length*width)
     }
     export function say_123(): number {
+		basic.showNumber(1)
     }
 	
     export function bar(): number {
-		test1.bar()
+		//test1.bar()
+		basic.showNumber(2)
     }
 	
 }

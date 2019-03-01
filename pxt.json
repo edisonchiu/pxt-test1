@@ -9,7 +9,7 @@
     "files": [
         "README.md",
         "main.ts",
-		"test1.cpp"
+		"test1.cpp",
         "_locales/zh/test1-strings.json"
     ],
     "public": true,
