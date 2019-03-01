@@ -3,7 +3,7 @@
 namespace test1 {
 	
     int say_123() {
-        return(123)
+        return(3)
     }
 	
 	void bar()
