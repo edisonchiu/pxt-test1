@@ -29,7 +29,7 @@ namespace test1 {
 		//basic.showNumber(test1.say_123())
 		//basic.showNumber(2)
 		//return 0
-		return test1.say_3()
+		return say_3()
     }
 	
 }
