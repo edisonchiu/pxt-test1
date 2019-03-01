@@ -16,14 +16,17 @@ namespace test1 {
     export function ledOfRectangle(length: number, width:number): void {
         basic.showNumber(length*width)
     }
+	
+	//% block
     export function say_123(): number {
 		basic.showNumber(1)
 		return 0
     }
 	
+	//% block
     export function bar(): number {
-		//test1.bar()
-		basic.showNumber(2)
+		test1.bar()
+		//basic.showNumber(2)
 		return 0
     }
 	

@@ -7,7 +7,7 @@ namespace test1 {
     }
 	
 	void bar()
-	  {
+	{
 		touch_develop::micro_bit::scrollNumber(108108, 50);
-	  }
+	}
 }
