@@ -1,4 +1,4 @@
-#include "pxt.h"
+//#include "pxt.h"
 
 namespace test1 {
 	
@@ -8,6 +8,6 @@ namespace test1 {
 	
 	void bar()
 	{
-		touch_develop::micro_bit::scrollNumber(108108, 50);
+		//touch_develop::micro_bit::scrollNumber(108108, 50);
 	}
 }
