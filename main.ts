@@ -26,6 +26,7 @@ namespace test1 {
     }
 	
 	//% block
+	//% shim=test1::bar
     export function bar(): number {
 		//test1.bar()
 		//basic.showNumber(test1.say_123())
