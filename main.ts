@@ -22,7 +22,7 @@ namespace test1 {
     export function say_123(): number {
 		//basic.showNumber(1)
 		//return 0
-		return say_123()
+		return 0
     }
 	
 	//% block
