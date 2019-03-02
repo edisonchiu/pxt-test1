@@ -18,6 +18,7 @@ namespace test1 {
     }
 	
 	//% block
+	//% shim=test1::say_123
     export function say_123(): number {
 		//basic.showNumber(1)
 		//return 0
